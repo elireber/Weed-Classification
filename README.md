@@ -13,6 +13,8 @@ Method - Create an interpretable computer vision model, using feature extraction
 Results - Algorithm was able to attain ~ 60% accuracy among the 8-label selection, with individual accuracies ranging from 39% to 73% for each species.
 
 ### Folder Contents:
-Code - A Jupyter Notebook containing the Python code written to pre process, extract features and classify immages
+Code - A Jupyter Notebook containing the Python code written to pre process, extract features and classify images
+
 Extracted Features - A .csv file containing the results of the feature extraction process
+
 Results - A technical write-up that descibes the scientific methodology of the project
