@@ -1,6 +1,6 @@
 # Weed-Classification
 
-Dataset - https://github.com/AlexOlsen/DeepWeeds
+Deepweeds Dataset - https://github.com/AlexOlsen/DeepWeeds
 
 This repository contains the work that I produced for a project in which I implemented an interpretable image classifier that is able to classify an image in an agricultural field as either a weed or a crop.
 
